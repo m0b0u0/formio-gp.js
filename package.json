@@ -1,7 +1,7 @@
 {
-  "name": "formio-gp.js",
-  "version": "3.22.1009",
-  "description": "(fork of) Common js library for client side interaction with <form.io>",
+  "name": "formiojs-gp",
+  "version": "3.22.9009001",
+  "description": "(fork of 3.22.9) Common js library for client side interaction with <form.io>",
   "main": "index.js",
   "files": [
     "dist",
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/m0b0u0/formio-gp.js"
+    "url": "git+https://github.com/m0b0u0/formiojs-gp"
   },
   "contributors": [
     {
@@ -132,6 +132,7 @@
     "karma-webpack": "^4.0.2",
     "marked": "^0.6.2",
     "mocha": "^6.1.4",
+    "node-sass": "^4.12.0",
     "power-assert": "^1.6.1",
     "pre-commit": "^1.2.2",
     "pygments-css": "^1.0.0",
