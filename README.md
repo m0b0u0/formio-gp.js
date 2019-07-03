@@ -16,9 +16,11 @@ To find out more about this library as well as see a demonstration of what you c
 ## Installation
 To install this SDK into your project, you can use the following command within your terminal.
 
+To install this fork:
 ```
-npm install --save formiojs
+npm install --save formio-gp.js
 ```
+See [here](https://formio.github.io/formio.js) to install the original.
  
 ## Form Building
 This library has a very powerful JSON form builder, and can be used like the following.
