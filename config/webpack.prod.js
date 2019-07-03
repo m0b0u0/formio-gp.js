@@ -12,7 +12,7 @@ module.exports = (entry, output) => {
     plugins: [
       new webpack.IgnorePlugin(/^\.\/locale$/, /moment$/),
       new webpack.BannerPlugin(
-        `formiojs v${packageJSON.version} | https://unpkg.com/formiojs@${packageJSON.version}/LICENSE.txt`
+        `formiojs-gp v${packageJSON.version} | https://unpkg.com/formiojs-gp@${packageJSON.version}/LICENSE.txt`
       )
     ]
   });
