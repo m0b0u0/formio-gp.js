@@ -1,5 +1,5 @@
 {
-  "name": "formio-gp-js",
+  "name": "formio-gp.js",
   "version": "3.22.9",
   "description": "(fork of) Common js library for client side interaction with <form.io>",
   "main": "index.js",
