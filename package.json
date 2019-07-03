@@ -13,7 +13,6 @@
     "full.js"
   ],
   "pre-commit": [
-    "lint"
   ],
   "scripts": {
     "build": "esdoc;gulp build",
